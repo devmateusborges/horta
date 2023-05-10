@@ -22,13 +22,11 @@ A montagem é simples e pode ser feita em casa com poucas ferramentas. O sensor 
 
 #Montagem do sistema
 
-![Horta automatizada em ação](images/1.jpeg)
+![Horta automatizada em ação](images/4.jpeg)
 
 ![Horta automatizada em ação](images/2.jpeg)
 
 ![Horta automatizada em ação](images/3.jpeg)
-
-![Horta automatizada em ação](images/4.jpeg)
 
 #Resultado
 Com a horta automatizada, é possível ter plantas saudáveis e bem irrigadas sem precisar se preocupar em regá-las diariamente. Além disso, o sistema permite um melhor aproveitamento da água e evita o desperdício.
